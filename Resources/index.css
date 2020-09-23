@@ -1,0 +1,44 @@
+.overskrift{
+    color: white;
+    background-color:#c00;
+    width: 230px;
+    padding: 10px;
+    
+}
+#h2 em{
+    color: white;
+    color:black;
+
+}
+.myDiv{
+background-color: white;
+}
+#ramme{
+border: black solid 2px;
+}
+#artikel{
+    width: 50%;
+    
+}
+#rød{
+    color:#c00;
+}
+
+.artikel2{
+    width: 50%;
+    float: right;
+}
+
+#header2{
+    color: white;
+    background-color: #c00;
+    width: 180px;
+    padding: 10px;
+
+}
+.side{
+    float:right;
+    width: 8.4cm;
+}
+
+

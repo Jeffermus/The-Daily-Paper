@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ .myDiv{
+  border: 10px outset white;
+  background-color: white;
+  text-align: center;
+ }
+ </style>
+ </head>
+ <body>
+
+ <h1>Coronavirus</h1>
+
+ <div class = "myDiv">
+
+ <h2>Dem, du rører ved: Virusekspert nuancerer begrebet 'sociale bobler'som det er nye coronavåben.</h2>
+ <p> Coronavirus er luftbærende, og har influencer symptomer.</p>
+</div>
+
+<p> Sundhed </p>
+
+</body>
+</html>
